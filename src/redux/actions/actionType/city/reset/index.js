@@ -1,0 +1,1 @@
+export const RESET_CITY_STATE = 'RESET_CITY_STATE'

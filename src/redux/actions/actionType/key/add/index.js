@@ -1,0 +1,5 @@
+/* eslint-disable */
+export const ADD_SHH_KEY_INITIATED = 'ADD_SHH_KEY_INITIATED'
+export const ADD_SHH_KEY_SUCCESS = 'ADD_SHH_KEY_SUCCESS'
+export const ADD_SHH_KEY_FAILED = 'ADD_SHH_KEY_FAILED'
+export const RESET_SHH_KEY_STATE = 'RESET_SHH_KEY_STATE'
